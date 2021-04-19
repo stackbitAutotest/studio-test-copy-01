@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: test
     subtitle: Optional hero section subtitle
     content: |
       test
